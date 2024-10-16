@@ -1,3 +1,4 @@
+HF_TOKEN = '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'
 import os
 import streamlit as st
 from llama_index.core import Document
